@@ -1,5 +1,5 @@
 function checkPassword() {
-    const correctPassword = "0601";
+    const correctPassword = "2404";
     const inputPassword = document.getElementById('password').value;
     console.log("Contra:", correctPassword)
 
